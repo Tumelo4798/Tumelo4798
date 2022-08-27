@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tumelo4798
-- 👀 I’m interested in Web developmet and Software development
+- 👀 I’m interested in Web development and Software development
 - 🌱 I’m currently learning html,css,javascript and java.
 - 💞️ I’m looking to collaborate on  website development
 - 📫 How to reach me ? send an email to serpentphoenix4@gmail.com
